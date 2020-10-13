@@ -1,0 +1,18 @@
+///////////////////////////////////////////////////////////////////////////
+// GSi Updater - Version 1.0 - July 2013
+// A utility by Guido Scognamiglio used to update GSi and Crumar Firmwares
+// Uses wxWidgets and RtMidi for cross platform (Win and Mac) compatibility
+//
+// www.GenuineSoundware.com
+// 
+///////////////////////////////////////////////////////////////////////////
+
+#include "wx/msw/wx.rc"
+
+
+#define COVERBMP	101
+
+ICON_GSi		ICON	"gsi.ico"
+//COVERBMP		BITMAP	"cover.bmp"
+
+
