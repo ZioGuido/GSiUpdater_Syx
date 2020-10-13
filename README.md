@@ -7,11 +7,10 @@ The compiled version can be downloaded from this link:
   
 
 *************************************************
-* GSi Updater - by Guido Scognamiglio - 2013    *
-* www.GenuineSoundware.com - zioguido@gmail.com *
-*                                               *
-* Written in C++ using wxWidgets and RtMIDI for *
-* multiplatform compatibility (Win / OSX)       *
+* GSi Updater - by Guido Scognamiglio - 2013
+* www.GenuineSoundware.com
+* Written in C++ using wxWidgets and RtMIDI for
+* multiplatform compatibility (Win / OSX)
 *************************************************
 
 - How to compile:
