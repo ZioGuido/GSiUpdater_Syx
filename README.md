@@ -1,9 +1,13 @@
 # GSiUpdater_Syx
-Utility to send sysex dumps to Midi machines
+Utility to send SysEx dumps to Midi machines
 
-This is the <SysEx Only> version of the GSi Updater utility originally written in 2013 for the GSi Burn.
+This is the "SysEx Only" version of the GSi Updater utility originally written in 2013 for the GSi Burn.
 The compiled version can be downloaded from this link:
   https://www.genuinesoundware.com/?a=dl&b=206&r=VHSOIDPSKGESUAGO
+  
+Note: this utility was based on wxWidgets version 2.8 that could not be compiled in x64 under OSX. 
+If you wish to attempt to compile it in x64 for Mac, you should use wxWidgets >3.x amd make the 
+necessary changes to the code.
   
 
 *************************************************
